@@ -1,0 +1,497 @@
+  
+
+  Chapter 3
+
+Money Creation by Bank System
+i- Assets ->> 
+-  Assets are things a firm owns or what a firm can claim from others. In case of a bank, apart from buildings, furniture, etc., its assets are loans given to public.
+  ex  When the bank gives out loan of Rs 100 to a person, this is the bank’s claim on that person for Rs 100.
+-  Another asset that a bank has is reserves. Reserves are deposits which commercial banks keep with the Central bank, Reserve Bank of India (RBI) and its cash.
+  Assets = Reserves + Loans
+
+ii- Liabilities ->>
+  - Liabilities for any firm are its debts or what it owes to others.
+  - Liabilities = Deposits
+
+iii- Cash Reserve Ratio (CRR) = Percentage of deposits which a bank must keep as cash reserves with itself. 
+
+iv- Money Multiplier = |/ Cash reserve ratio                   
+
+
+
+- POLICY TOOLS TO CONTROL MONEY SUPPLY
+->>  This role of RBI, that of being ready to lend to banks at all times 
+    is another important function of the central bank, and due to this central bank is said to be the lender of last resort. 
+->> RBI will control the money supply in various ways ->>
+ i- changing of reserve ratio->> leads to change in lending by bank which in turns impact the deposit and hence money supply.
+ ii- open market operations ->> buy and seel govt. bonds
+                            - when RBI buy govt. bonds it pay money by cheque this increase money in economy
+                            - when RBI sell this bond to private leads to reduction in quantity of reserve and hence money control
+ iii- 2 open types of market 
+    i- outright ->>  when the central bank buys these securities (thus injecting money into the system), it is without any promise to sell them later.
+                ->>  Similarly, when the central bank sells these securities (thus withdrawing money from the system),  it is without any promise to buy them latter .
+    ii- repo    ->> central bank by securiries, this agreement of purchase has specification about date and price of resale of this security. This type of agreement is called a repurchase agreement or repo.      
+                    The interest rate at which the money is lent in this way is called the repo rate.
+                ->>  the central bank may sell the securities through an agreement which has a specification about the date and price at which it will be repurchased. 
+                     This type of agreement is called a reverse repurchase agreement or reverse repo .
+                    The rate at which the money is withdrawn in this manner is called the reverse repo rate.
+                    
+       -  The Reserve Bank of India conducts repo and reverse repo operations at various maturities: overnight, 7-day, 14- day, etc. 
+ iv - changing the rate at which RBI gives loans to the commercial banks is called the Bank Rate in India.
+      By increasing the bank rate, loans taken by commercial banks become more expensive;
+      this reduces the reserves held by the commercial bank and hence decreases money supply.
+      A fall in the bank rate can increase the money supply.
+       
+
+
+
+
+
+    CHAPTER 5
+                  GOVERMENT BDUGET AND ECONOMY
+
+-  GOVERNMENT BUDGET — MEANING AND ITS COMPONENTS
+ - There is a constitutional requirement in India (Article 112) to present before the Parliament a statement of estimated receipts and expenditures of the government in respect of every financial year which runs from 1 April to 31 March.
+   This ‘Annual Financial Statement’ constitutes the main budget document of the government. 
+ - There is a need therefore to have two accounts
+   i- Revenu Account ->>  that relate to the current financial year only are included in the revenue account (also called revenue budget) .
+   ii- Capital Account ->>  those that concern the assets and liabilities of the government into the capital account (also called capital budget).
+
+
+-  Objectives of Government Budget 
+  i-  Allocation Function of Govt. budget 
+    - Public and privte goods.
+  
+  ii- Redistribution of govt. budget 
+     -  The government sector affects the personal disposable income(our income) of households by making transfers 
+        and collecting taxes. It is through this that the government can change the distribution of income and 
+         bring about a distribution that is considered ‘fair’ by society. This is the redistribution function.
+
+  iii-  Stabilisation Function of Government Budget 
+      -  there may be times when demand exceeds available output under conditions of high employment and thus may give rise to inflation. In such situations, restrictive conditions may be needed to reduce demand.
+      - The intervention of the government whether to expand demand or reduce it constitutes the stabilisation function.
+ 
+-  Classification of Receipts 
+ i-  Revenu Recipt
+    -  Tax revenues, an important component of revenue receipts, have for long been divided into direct taxes (personal income tax) and firms (corporation tax),
+       and indirect taxes like excise taxes (duties levied on goods produced within the country), customs duties (taxes imposed on goods imported into and exported out of India) and service tax1.
+       Other direct taxes like wealth tax, gift tax and estate duty (now abolished) have never brought in large amount of revenue and thus have been referred to as ‘paper taxes’ .
+       - income- higher income higher tax
+       - Firm tax ->  proportional basis, where the tax rate is a particular proportion of profits. 
+       -  excise taxes->> necessities of life are exempted or taxed at low rates .
+       -  semi-luxuries are moderately taxed, and luxuries, tobacco and petroleum products are taxed heavily.
+   - Non-tax revenue of the central government mainly consists of
+       - interest receipts on account of loans by the central government,
+       - dividends and profits on investments made by the government,
+       - fees and other receipts for services rendered by the government. 
+       - Cash grants-in-aid from foreign countries and international organisations are also included. 
+   - The estimates of revenue receipts take into account the effects of tax proposals made in the Finance Bill .
+
+- A Finance Bill, presented along with the Annual Financial Statement, provides details on the imposition, abolition, remission, alteration or regulation of taxes proposed in the Budget.
+
+
+ii- Capital Receipts - 
+   -  The government also receives money by way of loans or from the sale of its assets. Loans will have to be returned to the agencies from which they have been borrowed. Thus they create liability.
+   -  Sale of government assets, like sale of shares in Public Sector Undertakings (PSUs) and   reduce the total amount of financial assets of the government.
+   -  All those receipts of the government which create liability or reduce financial assets are termed as capital receipts. 
+   
+
+- Classification of Expenditure
+ i- Revenu Expenditure
+   - relates to those expenses incurred for 
+       ->> the normal functioning of the government departments and various services,
+       ->> interest payments on debt incurred by the government, and
+       ->> grants given to state governments and other parties (even though some of the grants may be meant for creation of assets).
+   - it is used  for purposes other than the creation of physical or financial assets of the central government. 
+   - Budget documents classify total expenditure into plan and non-plan expenditure 
+     ->> a/c to this  plan revenue expenditure relates to central Plans (the Five-Year Plans) and central assistance for State and Union Territory plans.
+     ->>  Non-plan expenditure, the more important component of revenue expenditure, covers a vast range of general, economic and social services of the government. 
+        -  The main items of non-plan expenditure are
+           i-  interest payments->> Interest payments on market loans, external loans and from various reserve funds constitute the single largest component of non-plan revenue expenditure. 
+           ii-  defence services->> Defence expenditure, is committed expenditure in the sense that given the national security concerns, there exists little scope for drastic reduction. 
+           iii-  subsidies ->>  Apart from providing implicit subsidies through under-pricing of public goods and services like education and health, the government also extends subsidies explicitly on items such as exports, interest on loans, food and fertilisers. 
+           iv- salaries and pensions.
+           -  ubsidies as per GDP was 2.02 per cent in 2014-15 and is 1.7 percent of GDP in 2015-16 (B.E).
+ 
+
+ ii- Capital Ecpenditure
+    -  creation of physical or financial assets or reduction in financial liabilities.
+    -  This includes expenditure on the acquisition of land, building, machinery, equipment, investment in shares, and loans and advances by the central government to state and union territory governments, PSUs and other parties.
+    -  Capital expenditure is also categorised as plan and non-plan in the budget documents
+      i-  Plan capital expenditure, like its revenue counterpart, relates to central plan and central assistance for state and union territory plans. 
+      ii-  Non-plan capital expenditure covers various general, social and economic services provided by the government. 
+         
+
+-  Three policy statements are mandated by the Fiscal Responsibility and Budget Management Act, 2003 (FRBMA)
+   i-   The Medium-term Fiscal Policy Statement sets a three year rolling target for specific fiscal indicators and examines whether revenue expenditure can be financed through revenue receipts on a sustainable basis
+        and how productively capital receipts including market borrowings are being utilised.  
+   ii-  The Fiscal Policy Strategy Statement sets the priorities of the government in the fiscal area, examining current policies and justifying any deviation in important fiscal measures.
+   iii- Macroeconomic Framework Statement assesses the prospects of the economy with respect to the GDP growth rate, fiscal balance of the central government and external balance.
+
+
+
+
+ BALANCED, SURPLUS AND DEFICIT BUDGET
+i- The government may spend an amount equal to the revenue it collects. This is known as a balanced budget.
+ -   If it needs to incur higher expenditure, it will have  If it needs to incur higher expenditure, it will have
+ii-  When tax collection exceeds the required expenditure, the budget is said to be in surplus. 
+iii-  the most common feature is the situation when expenditure exceeds revenue. This is when the government runs a budget deficit.
+
+
+ Measures of Government Deficit
+- Revenue Deficit: The revenue deficit refers to the excess of government’s revenue expenditure over revenue receipts 
+      Revenue deficit = Revenue expenditure – Revenue receipts
+Revenu Deficit
+- What if when Revenue Dificit occure?
+  -  it implies that the government is dissaving and is using up the savings of the other sectors of the economy to finance a part of its consumption expenditure.
+  - . This situation means that the government will have to borrow not only to finance its investment but also its consumption requirements. 
+  -  This will lead to a build up of stock of debt and interest liabilities and force the government, eventually, to cut expenditure. 
+  -  Since a major part of revenue expenditure is committed expenditure, it cannot be reduced. 
+  -   Often the government reduces productive capital expenditure or welfare expenditure. This would mean lower growth and adverse welfare implications.
+ 
+
+->> Dissaving ->> Dissaving is negative saving. If spending is greater than disposable income, dissaving is taking place. 
+
+Fiscal Deficit
+-  Fiscal deficit is the difference between the government’s total expenditure and its total receipts excluding borrowing
+   Gross fiscal deficit = Total expenditure – (Revenue receipts + Non-debt creating capital receipts)
+   ->> Captial Receipt->>
+       (a) Recovery of loans 
+       (b) Other receipts (mainly PSU1 disinvestment)     -  a and b are Non-debt creating capital receipts 
+       (c) Borrowings and other liabilities
+
+- The fiscal deficit will have to be financed through borrowing. Thus, it indicates the total borrowing requirements of the government from all sources
+   From the financing side
+                             
+                Gross fiscal deficit = Net borrowing at home + Borrowing from RBI + Borrowing from abroad
+
+   ->> Net borrowing from home -  directly borrowed from the public through debt instruments (for example, the various small savings schemes) 
+                                  and indirectly from commercial banks through Statutory Liquidity Ratio (SLR).  
+-SLR- Statutory Liquidity fund
+    - In India, the Statutory liquidity ratio (SLR) is the Government term for the reserve requirement that commercial banks are 
+      required to maintain in the form of cash, gold reserves, Reserve Bank of India (RBI)- approved securities before providing credit to the customers.
+    -  The SLR to be maintained by banks is determined by the RBI in order to control the expansion.
+- fiscal deficit is a variable to measure country wealth
+
+- Fiscal Deficit = Revenue Deficit + Capital Expenditure - non-debt creating capital receipts
+        mean     =  Revenue Deficit +  (c) Borrowings and other liabilities(see in capital receipt)
+        
+- A large share of revenue deficit in fiscal deficit indicated that a large part of borrowing is being used to meet its consumption expenditure needs rather than investment. 
+
+
+Primary Deficit:
+- Total borrowing include = amount borrowed + intrest on borrowed money
+- Gross primary deficit = Gross fiscal deficit – Net interest liabilities .
+- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Monetary policy
+- MPC->> Monetary policy committee (6member = 3RBI + 3 GoI)
+- Itd By policy becz it comes ones in 2 month
+- Aim- Growth and Stability
+- Infilation - Demand up , Supply down , Price up
+- Deflation- Demand down, Supply same (unempolyment , low production) , Price down
+- RBI flow of money
+- RBI->Bank-> Agriculture
+           -> Education
+           -> Bussiness
+           -> Home Loans
+           -> Industries
+
+-Instruements
+ 
+  Direct Instruments
+                    i-  Refainance Facility
+                    ii- Cash reserve Ratio(CRR) -> Money saved in RBI
+                    iii- SLR                    -> Money saved with us
+ In-Direct Instruments
+                     i- repo rate
+                     ii- bank Rate
+                     iii- Marginal standing facility
+                     iv- Reserve Repo rate
+                     v- open Market Operation
+
+i) CRR- Bank->NDTL-> 4%->RBI
+ ->>  CRR is paid to RBI daily
+ ->>  Bank has   ->> Assest - loan
+             
+              ->> Liabilities -> Deposit -> i) Demand Deposite = whenever we want we demand money from our deposite ex Current and Saving deposite
+                                            ii) Term/Time Depsoite = deposite which has fixed time period for withdrawl ex RD and FD
+ ->>  NDTL- Net demand and time liabilities
+      - Net demand and time deposite ->> becz liabilites is deposite
+      - when bank closes daily at 5 pm it has NDTL from which it has to give CRR to RBI daily.
+  ->>  bank get nothing when they give CRR 
+       why ?
+  Ans- RBI Act |934 under this policy Bank give CRR to RBI under this policy bank doesn't get anything .
+ 
+    
+ ii) SLR - The share(portion of something) of NDTL that bank must maintain in cash , gold and govt. securities  
+         - SLR maintiains on Banking Regulation Act |949
+         -  |9.5
+         - Bank keeps SLR daily on NDTL and bank is upset what to do with these so much of money they can't make profit with them
+         - So, RBI made some policy like they can Keep in
+                                                       - cash 
+                                                       - invest in gold
+                                                       - govt. securities - so bank get intrests 
+   Security ->>i) Sham took loan from Golu and in term gave bond on which its return promise with legal stamp
+                  - so now this stamp acts like security
+               ii) Bank->> give loans and as our property paper as security
+               iii) GoI->> GoI doesn't have so much of money 
+                         - If govt. need 50000cr , they can't print notes because of inflation 
+                            So, GoI borrow from RBI, World Bank, IMF and us(like In POST OFFICE GoI make scheme  where they give certain intrest after some time so they take money and give Stamp paper which is security).
+                         - Govt. securities means a paper on which govt. collect money from us.
+                         - Giltages securities means highy safe securities like govt. securities not like stock market
+ Why does RBI maintain all these?
+Ans-i) Increase CRR to reduce Inflation and vise-versa
+     so, CRR, SLR up , Money Supply down
+    ii) Decrease CRR to reduce deflation.
+
+
+iii) Refinance facility-
+    - When Bnaks goes out of money and there is no money to give loan then RBI gives money to bank for giving loans to Agriculture, Education, Housing, Industries, Bussiness 
+      this is called Refinance.
+ 
+
+INDIRECT INSTRUMENT
+
+i) Repo Rate-
+            - Full form a) Repurchase(Rep) offer(o) rate.
+                       b) repurchase option 
+            - Its rate at which bank borrow from RBI for  SHORT TERM(i.e max 90 days).
+            - On Repo rate |5 days loans can be get and if unable to returen then they are extend it by |5 days 5 times
+                i.e |5 * 5= 75 , max 75 days extra  they can extend with no extra change(total 75 + 15=90) after that they need to pay panelty.
+            - This extension is done becz if not done then money go back to RBI and grown and development stops.
+   how much loan Bank can take? - min ->> 5cr
+                                  max ->> o.5% of NDTL(total money of bank on that time in all branches).
+                                 ex- If SBI ask loan fron RBI at night 3 am , then RBI tell me how much total money u have in all branches ? Then o.5% of total money ie NDTL can be get as loan.
+             
+ii) Banlk Rate-
+              - This is rate at which Banks borrow from RBI 90+ days to one year and its  LONG TERM
+              - Bank rate is actually Panelty Rate becz till 90 days it will be repo rate aftr that Bank Rtae is applied.
+              
+iii) Marginal Standing Facility- (MSF)
+                               - MSF annd Band Rate are equil
+                               - Bank after taking loan for repo rate , if it is need of emergency money then 
+                                 Bank can take one day loan by MSF by RBI
+                               - MSF is not applicable to RRBs and Co-operative banks becz their head is NABAD
+                               - RBI only fiance to central govt. banks not to state banks
+                               - min->> 1cr
+                                 max->> 2% of NDTL
+                               
+
+iv) Reverse Repo Rate- 
+                     - If bank has extra money then it deposite its money to RBI and takes intrest.
+
+*v) Liquidity Adjustment Facility(LAF)-
+                                      - combined RR and RRR is called LAF  
+                                      - ex- RR=6.25 RRR=6.00 , 
+                                               RR-RRR=0.25 ->> LAF corridor its fixed
+                                      -  RBI control RR to control money supply , RR up banks increase their intreset then ppl will stop taking loan then MS reduces.
+                                      - RR up , money supply down   ->> reduce inflation
+                                      - If banks has dead money which i static then they can deposite to RBI and get RRR
+                             - vice-versa operation for deflaction.
+                             - RR down , banks Intrest down ppl take loan , MS up , 
+                             - Even money deposited to RBI , banks takes it and put in market.
+
+vi- Open market operation - 
+                          - Ram ANd shyam example 
+                          -  Ram hyas 10lkh securities invested in Travell bill of maturity 1 year , after 6th months Ram  need 10lkh emergengy
+                            ->> then Ram went to shyam and told hime so n so u take thses securities with has 6% intrest and give me 10lkh and u have to wait for 6th moth only ull get money and 1year 6% intrest also.
+                            ->> So shyam buys it and gave 10lkh to Ram
+                          - Same thing RBI do with banks when banks has surplus money and gives loans to ppl , RBI tells banks that i have some govt. bonds u take it n ull be profitable. 
+                            ->> Banks takes Baonds and reduces inflation.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chapter 6
+           Open Economy Macroeconomics
+
+
+1- An open economy is one which interacts with other countries through various channels. 
+2- There are three ways in which these linkages are established. 
+   i- Output Market: An economy can trade in goods and services with other countries. This widens choice in the sense that consumers and producers can choose between domestic and foreign goods
+   ii- Financial Market: Most often an economy can buy financial assets from other countries. This gives investors the opportunity to choose between domestic and foreign assets.
+   iii-  Labour Market: Firms can choose where to locate production and workers to choose where to work. There are various immigration laws which restrict the movement of labour between countries. 
+3- Leakge -  In economics, the term refers to the outflow from a circular flow of income model.
+   Injection-  Injection is the act of putting a liquid.
+4-  Aggregate Demand (AD) ->> or domestic final demand (DFD) is the total demand for final goods and services in an economy at a given time and able to sell at a given price in economy.
+                          - This is demand for Gross demostic product of economy.
+   Aggregate Supply (AS)  ->> In economics, aggregate supply (AS) or domestic final supply (DFS) is the total supply of goods and services that firms in a national economy plan on selling during a specific time period. 
+                          -   It is the total amount of goods and services that firms are willing and able to sell at a given price level in an economy.
+5- Forigne Trade influence Indian Aggregate demand in two ways -
+  i- imports of forigne goods ->> leakge from circular flow of income 
+                               - decrease aggreagte demand
+ ii- exports of demostic goods ->> injection into the circular flow of income 
+                                -  increase aggregate demand
+
+6-  There are two aspects of this commitment that has affected its credibility — the ability to convert freely in unlimited amounts and the price at which this conversion takes place. 
+   -  The international monetary system has been set up to handle these issues and ensure stability in international transactions. 
+
+7- The price of one currency in terms of another currency is known as the foreign exchange rate or simply the exchange rate. 
+
+8-   THE BALANCE OF PAYMENTS
+  ->>  record the transactions in goods, services and assets between residents of a country with the rest of the world for a specified time period typically a year. 
+     -  There are two main accounts in the BoP — the current account and the capital account .
+ 
+   1-  Current Account 
+    - Current Account is the record of trade in goods and services and transfer payments. 
+    i) Trade in goods includes exports and imports of goods.
+    ii) Trade in services includes factor income and non-factor income transactions. 
+    iii)  Transfer payments are the receipts which the residents of a country get for ‘free’, without having to provide any goods or services in return. They consist of gifts, remittances and grants. 
+         -  They could be given by the government or by private citizens living abroad.
+       
+     - Factor Income is the progression of income that is obtained from the Factors of Income—the general factors of production utilized in the creation of merchandise or service so as to make a monetary benefit.
+        - Factor income on the utilization of land is called rent, income produced from work is called wages, and income created from capital is called benefit.  
+      
+    - Non -Factor ->> Shipping, banking, tourism, software services etc.
+
+
+    - Balance on Current Account has two components:
+       • ·Balance of Trade or Trade Balance
+       • ·Balance on Invisibles   
+   
+   Balance of Trade ->> 
+    i) Balance of Trade (BOT) is the difference between the value of exports and value of imports of goods of a country in a given period of time. 
+    ii) Export of goods is entered as a credit item in BOT, whereas import of goods is entered as a debit item in BOT. It is also known as Trade Balance. 
+ 
+   Net invisible ->>
+    i) Net Invisibles is the difference between the value of exports and value of imports of invisibles of a country in a given period of time.
+    ii)  Invisibles include services, transfers and flows of income that take place between different countries. 
+    iii)  Services trade includes both factor and non-factor income. 
+    iv)  Factor income includes net international earnings on factors of production (like labour, land and capital).
+       Non-factor income is net sale of service products like shipping, banking, tourism, software services, etc.
+   
+
+
+
+
+7- Capital Account
+
+
+
+
+
+
+
+
+
+
+
+
+8- Table of cpital and current account
+
+
+
+
+
+
+
+
+9- Aotonomus and Accomodating payments
+
+
+
+
+
+
+
+
+10-                   THE FOREIGN EXCHANGE MARKET
+    
+
+- Foreign Exchange Market -> Participants(commercial Banks, Foreign exchange brokers, other  dealers and monetary authorities) -> trading centers (each particient have their own trading centers)
+- There is close and continus contact between trading centers and        participants have close deals in more than one market
+
+  1-     Foreign Exchange Rate (Foorex rate)
+ -  The price of one currency in terms of another currency is known as the foreign exchange rate or simply the exchange rate. 
+       
+        -  Demand for Foreign Exchange
+             ->> People demand foreign exchange because:- 
+                                                ->> they want to purchase goods and services from other countries;
+                                                     they want to send gifts abroad;
+                                                     and, they want to purchase financial assets of a certain country. 
+             ->>   A rise in price of foreign exchange will increase the cost (in terms of rupees) of purchasing a foreign good.        
+             ->>  This reduces demand for imports and hence demand for foreign exchange also decreases, other things remaining constant.
+
+
+        - Supply of Foreign Exchange 
+             ->> Foreign currency flows into the home country due to the following reasons: 
+                                                               ->>  exports by a country lead to the purchase of its domestic goods and services by the foreigners; 
+                                                                     foreigners send gifts or make transfers; and,
+                                                                     the assets of a home country are bought by the foreigners. 
+            ->> A rise in price of foreign exchange will reduce the foreigner’s cost (in terms of USD) while purchasing products from India, other things remaining constant.
+           ->>  This increases India’s exports and hence supply for foreign exchange may increase.
+
+
+
+
+             Determination of Forigne Exchange Rate
+
+- Technique->> Flixable  Exchange Rate , Floating Exchange Rate or Fixed Echange Rate
+ 1- Flixable Exchange Rate
+- This exchange rate is determined by the market forces of demand and supply. It is also known as Floating Exchange Rate. 
+-  the demand for foreign goods and services increases (for example, due to increased international travelling by Indians), 
+      The increase in demand for foreign goods and services result in a change in the exchange rate.
+      . The initial exchange rate e0 = 50, which means that we need to exchange Rs 50 for one dollar. 
+           At the new equilibrium, the exchange rate becomes e1 = 70, which means that we need to pay more rupees for a dollar now (i.e., Rs 70).
+***- . It indicates that the value of rupees in terms of dollars has fallen and value of dollar in terms of rupees has risen.
+
+***-  Increase in exchange rate implies that the price of foreign currency (dollar) in terms of domestic currency (rupees) has increased. This is called Depreciation of domestic currency (rupees) in terms of foreign currency (dollars). 
+***-  in a flexible exchange rate regime, when the price of domestic currency (rupees) in terms of foreign currency (dollars) increases, it is called Appreciation of the domestic currency (rupees) in terms of foreign currency (dollars). 
+        means ->> value of rupees relative to dollar has risen and we need to pay fewer rupees in exchange for one dollar.
+
+- 
+
+
+
+
+
+2- Fixed Exchange Rate
+-  the Government fixes the exchange rate at a particular level.
+- e- e is where demand meet supply
+  e1->> e1 is where supply is more than demand
+  e2->> e2 is where demand is less than supply
+
+                         e1 < e < e2
+
+  example->> 1)  the new exchange rate set by the Government is e1, where e1 > e.
+                 for some reason the Indian Government wants to encourage exports for which it needs to make rupee cheaper for foreigners it would do so by fixing a higher exchange rate, say Rs 70 per dollar from the current exchange rate of Rs 50 per dollar. 
+               if ->>  At this exchange rate, the supply of dollars exceeds the demand for dollars. 
+                  ->>  The RBI intervenes to purchase the dollars for rupees in the foreign exchange market in order to absorb this excess supply which has been marked as AB in the figure. Thus, through intervention, the Government can maintain any exchange rate in the economy.
+                  ->>  But it will be accumulating more and more foreign exchange so long as this intervention goes on. 
+            2)  if the goverment was to set an exchange rate at a level such as e2, where e2 < e
+                  ->> , there would be an excess demand for dollars in the foreign exchange market.
+                  ->>  To meet this excess demand for dollars, the government would have to withdraw dollars from its past holdings of dollars.
+                       If it fails to do so, a black market for dollars may come up. 
+    
+*** - In a fixed exchange rate system, 
+     i-  When some government action increases the exchange rate (thereby, making domestic currency cheaper) is called Devaluation. 
+     ii-  A Revaluation is said to occur, when the Government decreases the exchange rate (thereby, making domestic currency costlier) in a fixed exchange rate system.
